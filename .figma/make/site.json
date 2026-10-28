@@ -1,0 +1,10 @@
+{
+  "description": "Promote Snapshot’s portable event photobooth to clubs and event organizers, showcasing customizable, shareable experiences that preserve event memories.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
